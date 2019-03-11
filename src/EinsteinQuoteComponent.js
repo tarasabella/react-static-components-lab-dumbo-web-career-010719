@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export class EinsteinQuoteComponent extends Component {
 	render() {
 		return (
-			<div className="bar" id="einstein">
+			<div className="bar-einstein" id="einstein">
 				<i>
 					<p>
 						&quot;Life is like riding a bicycle. To keep your balance you must
